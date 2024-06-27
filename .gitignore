@@ -1,0 +1,11 @@
+
+/.ccls-cache
+/.cache
+
+/cpi_flamegraph_small.svg
+/cpu_mem_bound
+/out.folded.cycles
+/out.folded.stalls
+/out.perf
+/perf.data
+/perf.data.old
