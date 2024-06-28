@@ -23,6 +23,7 @@ void cpu_bound() {
                 __asm__ ("nop\nnop\nnop");
         }
 }
+
 int main() {
     register int i = 0;
     while(i < 15){
